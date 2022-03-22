@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-localize-master.flake = false;
+  inputs.src-localize-master.ref   = "refs/heads/master";
   inputs.src-localize-master.owner = "levovix0";
-  inputs.src-localize-master.ref   = "master";
   inputs.src-localize-master.repo  = "localize";
   inputs.src-localize-master.type  = "github";
   
