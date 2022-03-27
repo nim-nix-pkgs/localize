@@ -11,6 +11,7 @@
   inputs.src-localize-0_1.ref   = "refs/tags/0.1";
   inputs.src-localize-0_1.owner = "levovix0";
   inputs.src-localize-0_1.repo  = "localize";
+  inputs.src-localize-0_1.dir   = "";
   inputs.src-localize-0_1.type  = "github";
   
   inputs."fusion".owner = "nim-nix-pkgs";
