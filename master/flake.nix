@@ -11,7 +11,6 @@
   inputs.src-localize-master.ref   = "refs/heads/master";
   inputs.src-localize-master.owner = "levovix0";
   inputs.src-localize-master.repo  = "localize";
-  inputs.src-localize-master.dir   = "";
   inputs.src-localize-master.type  = "github";
   
   inputs."fusion".owner = "nim-nix-pkgs";
